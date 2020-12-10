@@ -35,10 +35,8 @@ public final class AutoSneak extends JavaPlugin implements CommandExecutor, List
                         if (!args[0].equals("on")) {
                             return false;
                         }
-
                         this.setSneakStatus(player, true);
                     }
-
                     return true;
                 }
             }

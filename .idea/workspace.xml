@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1ac04f3-0121-4090-92f5-f37e9fbb9b9a" name="Default Changelist" comment="" />
+    <list default="true" id="a1ac04f3-0121-4090-92f5-f37e9fbb9b9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/AutoSneak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/AutoSneak.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +79,14 @@
       <option name="presentableId" value="Default" />
       <updated>1607592628741</updated>
     </task>
+    <task id="LOCAL-00001" summary="README&amp;LICENSEのアップロード">
+      <created>1607593271432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607593271432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README&amp;LICENSEのアップロード" />
+    <option name="LAST_COMMIT_MESSAGE" value="README&amp;LICENSEのアップロード" />
   </component>
 </project>
