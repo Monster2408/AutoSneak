@@ -1,1 +1,5 @@
+xyz\mlserver\autosneak\autosneak\Commands\autosneak.class
+xyz\mlserver\autosneak\autosneak\Utils\API\MainAPI.class
+xyz\mlserver\autosneak\autosneak\Utils\Var.class
 xyz\mlserver\autosneak\autosneak\AutoSneak.class
+xyz\mlserver\autosneak\autosneak\Listeners\onSneak.class

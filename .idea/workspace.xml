@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ac04f3-0121-4090-92f5-f37e9fbb9b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/Commands/autosneak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/Listeners/onSneak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/Utils/API/MainAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/Utils/Var.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/AutoSneak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/mlserver/autosneak/autosneak/AutoSneak.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,8 +15,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d89fb201-f48d-44f1-9ed9-6684634ec0ed" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -86,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607593271432</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aaa">
+      <created>1607593436083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607593436083</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -102,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README&amp;LICENSEのアップロード" />
-    <option name="LAST_COMMIT_MESSAGE" value="README&amp;LICENSEのアップロード" />
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
 </project>
