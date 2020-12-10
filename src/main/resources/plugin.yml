@@ -1,0 +1,11 @@
+name: AutoSneak
+version: ${project.version}
+main: xyz.mlserver.autosneak.autosneak.AutoSneak
+authors: [Monster2408]
+description: AutoSneak for 1.12.2
+
+commands:
+    autosneak:
+        permission: AutoSneak.admin
+        description: autosneak
+        aliases: [auto, sneak]
